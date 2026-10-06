@@ -1,3 +1,3 @@
-# CSE134B-<TermInfo>-HW1
-# Name:
-# PID:
+# CSE134B-<FA26>-HW1
+# Name: James Villanueva
+# PID: A18226566
