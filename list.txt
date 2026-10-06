@@ -1,0 +1,5 @@
+The number of requests by Content Type.
+Looking at the “waterfall” graph and the stats on the bottom of the network tab, count up the number of HTML, CSS, JS, Font, Images (by type), and other unique request types made by your site.
+Total number of requests.
+The amount of data your browse receives and downloads. Refer to this StackOverflow questionLinks to an external site. for more details.
+The amount of data resources your website has.
