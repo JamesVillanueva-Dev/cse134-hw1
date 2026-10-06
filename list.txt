@@ -1,5 +1,24 @@
 The number of requests by Content Type.
+HTML	1	the document (lovely-cocada-748f3e.netlify.app)
+CSS	1	main.css
+JS	2	main.js, hud?variant=owner-private
+Font	1	Literata-Bold.ttf
+Images: JPEG	2	triton.jpg, bg_homepage.jpg
+Images: PNG	1	bear.png
+Images: GIF	1	ucsd.gif
+Images: SVG	6	the data:image/svg+xml rows
+Images: ICO	1	favicon.ico
+Media (video)	1	videoplayback.mp4
+
+
 Looking at the “waterfall” graph and the stats on the bottom of the network tab, count up the number of HTML, CSS, JS, Font, Images (by type), and other unique request types made by your site.
 Total number of requests.
+17
+
+
 The amount of data your browse receives and downloads. Refer to this StackOverflow questionLinks to an external site. for more details.
+6.7 MB
+
+
 The amount of data resources your website has.
+6.8 MB
