@@ -22,3 +22,24 @@ The amount of data your browse receives and downloads. Refer to this StackOverfl
 
 The amount of data resources your website has.
 6.8 MB
+
+
+Tasks:
+
+Go to espn.comLinks to an external site.
+Using only the screen reader, and without looking at your screen, try to navigate to the section titled Top Headlines. If you are unable to find it, note that down.
+
+It was basically impossible to find with only the screen reader
+
+
+Next, go to webaim.orgLinks to an external site.
+Using only the screen reader and without looking at your screen, try to find the Web Accessibility Virtual Training page, and then on that page in the FAQ section find out if the training will be archived.
+If you are unable to find it, note that down.
+
+It was fairly easy to get to with only a few button presses.
+
+Were any parts of navigating ESPN site easy? Were any parts difficult?
+Getting the navigation of the main tabs were easy but it was difficult to get to specific sections. 
+
+Were any parts of navigating webaim.org's site easy? Were any parts difficult?
+Webaim was pretty easy to navigate. I did not find anything particularly difficult.
